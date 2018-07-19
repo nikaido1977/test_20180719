@@ -57,3 +57,12 @@ p {
 	margin:0 auto;
 	text-align: center;
 }
+
+/*  BEM CSS記述 
+------------------------------*/
+.block { /* それ自身が意味のある部品 */
+}
+.block__element{ /* blockの中にあり、それ自身で意味を持たないパーツ */
+}
+.block__element--modifier{ /*  装飾*/
+}
