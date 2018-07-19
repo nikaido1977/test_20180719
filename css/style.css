@@ -47,6 +47,11 @@ body{
 	font-size:1.6rem;
 	line-height: 1.5;
 }
-p{
+
+p {
 	color:#D9D9D9;
+}
+.wrap {
+	width:100%;
+	text-align: center;
 }
