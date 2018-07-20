@@ -77,6 +77,16 @@ p {
 	margin:0;
 	padding:30px 0;
 }
+.column-box {
+	width:100%;
+	display: flex;
+	justify-content: space-around;
+}
+.column-4 {
+	width:20%;
+	padding:20px;
+	background-color:#f5f5f5;
+}
 
 /*  BEM CSS記述 
 ------------------------------*/
