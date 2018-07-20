@@ -78,6 +78,12 @@ p {
 	padding:30px 0;
 }
 
+.column-1__box {
+	width:100%;
+	padding:20px;
+	background-color:#f5f5f5;
+}
+
 /*  BEM CSS記述 
 ------------------------------*/
 .block { /* それ自身が意味のある部品 */
