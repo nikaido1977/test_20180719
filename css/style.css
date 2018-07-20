@@ -78,9 +78,20 @@ p {
 	padding:30px 0;
 }
 
+<<<<<<< HEAD
 .column-1 {
 	width:100%;
 	padding:20px;
+=======
+.column-3__box {
+	width: 100%;
+	display: flex;
+	justify-content: space-around;
+}
+.column-3 {
+	width:30%;
+	padding: 20px;
+>>>>>>> master
 	background-color:#f5f5f5;
 }
 
