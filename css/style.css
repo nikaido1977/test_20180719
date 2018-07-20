@@ -57,6 +57,7 @@ p {
 }
 .header {
 	width:100%;
+	text-align: center;
 }
 .header__title {
 	font-size:2.0rem;
