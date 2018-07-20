@@ -77,24 +77,7 @@ p {
 	margin:0;
 	padding:30px 0;
 }
-<<<<<<< HEAD
 
-<<<<<<< HEAD
-.column-1 {
-	width:100%;
-=======
-<<<<<<< HEAD
-.column-box {
-	width:100%;
-	display: flex;
-	justify-content: space-between;
-}
-.column-4 {
-	width:25%;
-	margin-right:20px;
->>>>>>> parent of 08036d8... [clean] コメント削除
-	padding:20px;
-=======
 .column-3__box {
 	width: 100%;
 	display: flex;
@@ -103,11 +86,6 @@ p {
 .column-3 {
 	width:30%;
 	padding: 20px;
-<<<<<<< HEAD
->>>>>>> master
-=======
->>>>>>> 3column
->>>>>>> parent of 08036d8... [clean] コメント削除
 	background-color:#f5f5f5;
 }
 
