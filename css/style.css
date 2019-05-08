@@ -71,7 +71,7 @@ p {
 	text-align: center;
 }
 .aside__inner--gray {
-	background-color:#eeeeee;
+	background-color:white;
 }
 .aside__title {
 	font-size:1.8rem;
@@ -90,6 +90,6 @@ p {
 .column-3 {
 	width:30%;
 	padding: 20px;
-	background-color:gray;
+	background-color:lightgray;
 	border:1px solid #efefef;
 }
